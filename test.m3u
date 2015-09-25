@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Ericeira
+rtmp://213.13.26.12/live playpath=ericeira.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/DTlId9ym9TZc7rOhKECF timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Espinho
+rtmp://213.13.26.42/live playpath=espinho.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/MkomIV8Fr0pEGnMRJCr1 timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Jardim do Mar
+rtmp://213.13.26.13/live playpath=jardim.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/zpUGwd4ZUrfvFIDb0Vco timeout=15 conn=S:OK –live
